@@ -1,0 +1,35 @@
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+body{
+  background-color: #396362;
+}
+.coin{
+  text-align: center;
+}
+h1 {
+  margin: 25px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #e3b04b;
+}
+p {
+  margin-bottom: 8px;
+  font-size: 3rem;
+  color: #ec9b3b;
+  font-family: 'Indie Flower', cursive;
+}
+img {
+  width: 40%;
+}
+
+footer {
+  margin-top: .5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
